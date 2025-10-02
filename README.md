@@ -1,0 +1,1 @@
+This is a stylish and responsive landing page inspired by PUBG Battlegrounds, built to showcase my learning journey. From layout to design, everything is crafted with HTML, CSS (and maybe a little JavaScript soon 😉).
